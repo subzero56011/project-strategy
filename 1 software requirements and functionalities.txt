@@ -1,0 +1,17 @@
+-Registration System for new students to be able to register 
+
+-Registered students should be able to Access the Videos
+
+-The platform must show information about each course, 
+such as the schedule, lessons, tutor, number of students enrolled, and duration.
+
+-The platform should provide each student with a personalized dashboard that
+ displays their course progress, attendance, that can be accessed by owner
+ and student himself
+
+-a student can register for only one course at a time
+
+- The platform should not have any restrictions on the number of students 
+who can enroll in each course.
+
+- only 1 tutor teaches each course no need for assistance
